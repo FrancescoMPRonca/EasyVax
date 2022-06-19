@@ -1,2 +1,2 @@
 # EasyVax
-Repository per progetto di prova finale
+Progetto prova finale - Politecnico di Milano 2021/2022
